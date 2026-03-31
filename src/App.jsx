@@ -41,7 +41,7 @@ function App() {
       details: ["视频剪辑与编辑", "视频调色"]
     },
     {
-      name: "Photoshop",
+      name: "Lightroom",
       details: ["图片编辑与处理", "滤镜应用"]
     },
     {
@@ -61,6 +61,13 @@ function App() {
       description: "暨南大学小红书号发布的年味暨园策划案；用校园地标为基础，加点新年元素。",
       category: "策划类",
       link: "https://www.xiaohongshu.com/explore/698dd9e3000000002800905a?xsec_token=ABhe4pO1zdHuEdigOrK7ZOjsXi6wp682qwCk0s0T4LXp8=&xsec_source=pc_user"
+    },
+    {
+      id: 2,
+      title: "下一站，上岸",
+      description: "暨南大学小红书号发布的考研复试加油推文，负责统筹工作。",
+      category: "策划类",
+      link: "https://www.xiaohongshu.com/explore/69c2532a000000001f0044f9?xsec_token=ABRObOTnwcv4S8YkyvTu5E-AhSopOrdYw9RmKuc-p157A=&xsec_source=pc_search&source=web_explore_feed"
     },
     {
       id: 3,
